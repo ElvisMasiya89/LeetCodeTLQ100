@@ -1,2 +1,2 @@
-# LeetCodeTLQ100
+# LeetCodeTop100
 Leetcode Top  100 Liked Questions
